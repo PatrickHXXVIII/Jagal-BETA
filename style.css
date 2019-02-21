@@ -3,7 +3,3 @@ td			{padding: 28px;}
 embed		{padding: 2.8%;}
 input		{font-size: 50pt; width: 95%;}
 	input[type=radio]	{height: 1.25em; padding-bottom: 1em;}
-
-table, th, td {
-  border: 1px solid white;
-}
