@@ -1,5 +1,5 @@
 body		{background-color: #000; font-family: Sans-serif;}
-th			{background-image: url("assets/case.gif"); background-size: 100%; width: 45%; height: 0; padding-bottom: 45%; }
+td			{padding-bottom: 45%; }
 embed		{padding: 2.8%;}
 input		{font-size: 50pt; width: 95%;}
 	input[type=radio]	{height: 1.25em; padding-bottom: 1em;}
