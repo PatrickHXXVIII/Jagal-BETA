@@ -1,9 +1,5 @@
 body		{background-color: #000; font-family: Sans-serif;}
-td			{padding-bottom: 45%; }
+td			{padding-bottom: 12%; }
 embed		{padding: 2.8%;}
 input		{font-size: 50pt; width: 95%;}
 	input[type=radio]	{height: 1.25em; padding-bottom: 1em;}
-
-table, th, td {
-  border: 1px solid white;
-}
