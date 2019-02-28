@@ -1,2 +1,2 @@
-document.getElementByName("value3").value = Date();
+document.getElementById("time").value = Date();
 
