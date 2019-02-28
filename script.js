@@ -1,3 +1,2 @@
-function timestamp()
-{document.getElementById("time").value = Date();
-}
+document.getElementById("time").value = Date();
+
