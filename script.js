@@ -1,2 +1,2 @@
-document.getElementById("time").value = Date();
+var timeString = Date().toString() + " " + Date.now();
 
