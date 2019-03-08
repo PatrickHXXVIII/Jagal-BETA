@@ -13,6 +13,6 @@ function send()
 {	for (var i = 0, length = radios.length; i < length; i++) {if (radios[i].checked){var vote = radios[i].value; break;}}
 	var voter = document.getElementById('value1').value;
 	var URL = URLroot+"&value1="+voter+"&value2="+vote;
-	alert(URL);
+	document.getElementById('embed').src = URL;
 }
 
