@@ -4,5 +4,8 @@ embed		{padding: 2.8%;}
 input		{font-size: 50pt; width: 95%;}
 	input[type=radio]	{height: 1.25em; padding-bottom: 1em;}
 	
-h1			{font-size: 75pt; color: #fff; margin:0em; margin-top: 0.35em;}
-h2			{font-size: 50pt; color: #fff; margin:0em; margin-bottom: 0.35em;}
+h1			{font-size: 75pt; color: #fff; margin:0em; margin-top: 0.28em;}
+h2			{font-size: 50pt; color: #fff; margin:0em; margin-bottom: 0.05em}
+h3			{margin-left: 10%; margin-right: 10%; background-color:F1BE58; color:725A29;}
+h4			{margin-left: 20%; margin-right: 20%; background-color:F1BE58; color:725A29;}
+h5			{margin-left: 10%; margin-right: 10%; margin-top: 10%; display: none}
