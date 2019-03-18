@@ -1,5 +1,9 @@
-body		{background-image: url("case.gif"); background-attachment: fixed; background-size: 100%; font-family: Sans-serif; text-align: center;}
-img			{text-align: center; padding-top:10%; display: block; max-width:55%; max-height:55%; width: auto; height: auto; margin: auto;}
-h1			{margin-left: 10%; margin-right: 10%; background-color:F1BE58; color:725A29;}
-h2			{margin-left: 20%; margin-right: 20%; background-color:F1BE58; color:725A29;}
-h3			{margin-left: 10%; margin-right: 10%; margin-top: 10%; display: none}
+body					{background-attachment: fixed; background-size: 100%; font-family: Sans-serif; text-align: center;}
+ body[case=default]		 {background-image: url("case.gif");}
+ body[case=gold]		 {background-image: url("casegold.gif");}
+ body[case=silver]		 {background-image: url("casesilver.gif");}
+ body[case=bronze]		 {background-image: url("casebronze.gif");}
+img						{text-align: center; padding-top:10%; display: block; max-width:55%; max-height:55%; width: auto; height: auto; margin: auto;}
+h1						{margin-left: 10%; margin-right: 10%; background-color:F1BE58; color:725A29;}
+h2						{margin-left: 20%; margin-right: 20%; background-color:F1BE58; color:725A29;}
+h3						{margin-left: 10%; margin-right: 10%; margin-top: 10%; display: none}
