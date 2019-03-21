@@ -3,7 +3,7 @@ td			{padding: 28px;}
 embed		{padding: 2.8%;}
 input		{font-size: 50pt; width: 95%;}
  input[type=radio]	{height: 1.25em; padding-bottom: 1em;}
-img [button=nav]	{width: 85px;}
+img [class="nav"]	{width: 85px;}
 
 h1			{font-size: 75pt; color: #fff; margin:0em; margin-top: 0.28em;}
 h2			{font-size: 50pt; color: #fff; margin:0em; margin-bottom: 0.05em}
