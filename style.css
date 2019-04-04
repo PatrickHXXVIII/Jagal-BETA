@@ -8,7 +8,7 @@ input		{font-size: 50pt; width: 95%;}
 div			{}
 	div[type=title]	{color: #fff;font-size: 50pt;}
 	div[type=author]{color: #fff;font-size: 10pt;font-family: serif;}
-	div[type=text]	{color: #fff;padding-left: 28px;padding-right: 28px;text-align:justify;}
+	div[type=text]	{color: #fff;padding: 14px;padding-left: 35px;padding-right: 35px;text-align:justify;}
 
 h1			{font-size: 75pt; color: #fff; margin:0em; margin-top: 0.28em;}
 h2			{font-size: 50pt; color: #fff; margin:0em; margin-bottom: 0.05em}
